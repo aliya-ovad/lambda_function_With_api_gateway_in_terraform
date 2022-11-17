@@ -60,7 +60,3 @@ In this project I used SNS that sends the results to email
 
 You need to change the value here [variables.tf](/Terraform/variables.tf)
 
-
-
-
-
